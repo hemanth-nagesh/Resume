@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 def main():
     st.set_page_config(page_title="E Hemanth Nagesh",
                        page_icon="",layout="wide")
-    print(st.__path__)
+    st.write(st.__path__)
     
     components.html("""<!DOCTYPE html>
 <html lang="en-US">
