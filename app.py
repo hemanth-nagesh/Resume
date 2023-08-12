@@ -19,10 +19,10 @@ def main():
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
     </noscript>
-    <link href="https://filebox-1-r6739119.deta.app/shared/c75400dd84191249" rel="stylesheet">
-    <link href="https://filebox-1-r6739119.deta.app/shared/131e08f733549f11" rel="stylesheet">
-    <link href="https://filebox-1-r6739119.deta.app/shared/8636ebf08bd30aff" rel="stylesheet">
-    <link href="https://filebox-1-r6739119.deta.app/shared/93ee02069891f9cb" rel="stylesheet">
+    <link href="css/font-awesome/css/all.min.css?ver=1.2.0" rel="stylesheet">
+    <link href="css/bootstrap.min.css?ver=1.2.0" rel="stylesheet">
+    <link href="css/aos.css?ver=1.2.0" rel="stylesheet">
+    <link href="css/main.css?ver=1.2.0" rel="stylesheet">
     <noscript>
       <style type="text/css">
         [data-aos] {
